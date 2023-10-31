@@ -1,0 +1,1 @@
+npx json-server --watch data/db.json --port 4000 # this is for running the JSON server 
